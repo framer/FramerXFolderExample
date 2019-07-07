@@ -14,7 +14,7 @@
         "clip" : true,
         "codeComponentIdentifier" : ".\/Button.tsx_Button",
         "codeComponentProps" : {
-          "text" : "Hello world"
+          "text" : "Hello world!"
         },
         "codeOverrideEnabled" : false,
         "constraintsLocked" : false,
@@ -41,7 +41,7 @@
         "id" : "WSwItaMEf",
         "intrinsicHeight" : 64,
         "intrinsicWidth" : 200,
-        "left" : 395,
+        "left" : 401,
         "locked" : false,
         "name" : null,
         "opacity" : 1,
@@ -57,7 +57,7 @@
         "radiusTopRight" : 0,
         "right" : null,
         "rotation" : 0,
-        "top" : 252,
+        "top" : 304,
         "visible" : true,
         "width" : 200,
         "widthType" : 0
